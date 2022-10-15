@@ -1,3 +1,5 @@
+# QR Code
+
 import qrcode
 
 qr_data = 'www.naver.com'

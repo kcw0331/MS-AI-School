@@ -1,3 +1,5 @@
+# TTS
+
 from gtts import gTTS
 from playsound import playsound
 import os
@@ -10,4 +12,4 @@ tts = gTTS(text = text, lang='ko')
 current_file_path = os.getcwd() + "./hi.mp3"
 tts.save('hi.mp3')
 
-# playsound('hi.mp3')
+# playsound('hi2.mp3')
