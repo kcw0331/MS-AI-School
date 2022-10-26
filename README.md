@@ -12,3 +12,5 @@
   - AI -> 귀납법, 데이터 + 결과값 => 컴퓨터 => 규칙.
   - IT -> 연역법, 데이터 +  규칙  => 컴퓨터 => 결과값.
   - 감정에 대해서도 말씀을 해주셨는데, 그 이유는 현재 AI의 한계와 과제이기 때문에 설명을 해주셨다.
+- 2022년 10월 26일 - [Machine Learning](https://github.com/kcw0331/Python/tree/main/MachineLearning)
+  - Orange를 사용하여 데이터를 간단히 시각화하며 구조적으로 다루었다.  
