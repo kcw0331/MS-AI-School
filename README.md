@@ -12,7 +12,8 @@
   - AI -> 귀납법, 데이터 + 결과값 => 컴퓨터 => 규칙.
   - IT -> 연역법, 데이터 +  규칙  => 컴퓨터 => 결과값.
   - 감정에 대해서도 말씀을 해주셨는데, 그 이유는 현재 AI의 한계와 과제이기 때문에 설명을 해주셨다.
-- 2022년 10월 26일,27일,28일 - [Machine Learning](https://github.com/kcw0331/Python/tree/main/MachineLearning)
+- 2022년 10월 26일,27일,28일 - [Machine Learning Basic](https://github.com/kcw0331/Python/tree/main/MachineLearning)
   - Orange를 사용하여 데이터를 간단히 시각화하며 구조적으로 다루었다.  
-- 2022년 10월 31일 - [Deep Learning](https://github.com/kcw0331/Python/tree/main/DeepLearning)
+- 2022년 10월 31일, 11월 1일 - [Deep Learning Basic](https://github.com/kcw0331/Python/tree/main/DeepLearning)
   - Deep Learning의 기초적인 부분을 전체적으로 살펴볼 수 있었다.
+  - Deep Learning의 기초적인 예제를 다루어 보았다.
