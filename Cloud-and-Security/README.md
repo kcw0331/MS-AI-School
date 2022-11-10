@@ -7,4 +7,3 @@
 - 2022년 11월 4일 - [Azure ML Studio](https://github.com/kcw0331/MS-AI-School/tree/main/Cloud-and-Security/azuremlstudio)
 - 2022년 11월 7일 - [Storage - BLOB](https://github.com/kcw0331/MS-AI-School/tree/main/Cloud-and-Security/storage)
 - 2022년 11월 8일 - [Storage - File, Queue and EventHub](https://github.com/kcw0331/MS-AI-School/tree/main/Cloud-and-Security/storage)
-- 2022년 11월 9일
