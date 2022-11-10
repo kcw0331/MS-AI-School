@@ -1,7 +1,7 @@
 # MS-AI-School
-# MS AI School(Python)
+## MS AI School(Python)
 
-## Python을 공부 정리 목록
+### Python을 공부 정리 목록
 - 2022년 10월 13일 - [파이썬 기초 문법](https://github.com/kcw0331/MS-AI-School/tree/main/Python/Python_Basic_Grammar) 
 - 2022년 10월 14일 - [깃허브 및 파이썬 실습](https://github.com/kcw0331/MS-AI-School/tree/main/Python/Python_Basic_Practical_Exp)
 - 2022년 10월 17, 18일 - [Azure를 이용한 Cognitive Servies 및 Numpy](https://github.com/kcw0331/MS-AI-School/tree/main/Python/Cognitive_Servies(Azure))
@@ -20,7 +20,8 @@
   - Deep Learning의 기초적인 예제를 다루어 보았다.
   - Mnist Data와 Cats_and_Dogs 이미지 데이터를 Deep Learning의 CNN으로 적용을 해보았다.
 
-## Cloud-and-Security 공부 정리 목록
+## MS AI School(Python)
+### Cloud-and-Security 공부 정리 목록
 - 2022년 11월 3일 - [도커와 쿠버네티스](https://github.com/kcw0331/MS-AI-School/tree/main/Cloud-and-Security/docker-and-kube)
 - 2022년 11월 4일 - [Azure ML Studio](https://github.com/kcw0331/MS-AI-School/tree/main/Cloud-and-Security/azuremlstudio)
 - 2022년 11월 7일 - [Storage - BLOB](https://github.com/kcw0331/MS-AI-School/tree/main/Cloud-and-Security/storage)
