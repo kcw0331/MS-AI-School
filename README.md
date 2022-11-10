@@ -1,4 +1,4 @@
-# MS-AI-School
+# :star:  MS-AI-School
 ## MS AI School(Python)
 
 ### Python을 공부 정리 목록
