@@ -20,7 +20,7 @@
   - Deep Learning의 기초적인 예제를 다루어 보았다.
   - Mnist Data와 Cats_and_Dogs 이미지 데이터를 Deep Learning의 CNN으로 적용을 해보았다.
 
-## MS AI School(Python)
+## MS AI School(Cloud-and-Security)
 ### Cloud-and-Security 공부 정리 목록
 - 2022년 11월 3일 - [도커와 쿠버네티스](https://github.com/kcw0331/MS-AI-School/tree/main/Cloud-and-Security/docker-and-kube)
 - 2022년 11월 4일 - [Azure ML Studio](https://github.com/kcw0331/MS-AI-School/tree/main/Cloud-and-Security/azuremlstudio)
