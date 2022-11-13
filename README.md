@@ -26,10 +26,9 @@
 - 2022년 11월 4일 - [Azure ML Studio](https://github.com/kcw0331/MS-AI-School/tree/main/Cloud-and-Security/azuremlstudio)
 - 2022년 11월 7일 - [Storage - BLOB](https://github.com/kcw0331/MS-AI-School/tree/main/Cloud-and-Security/storage)
 - 2022년 11월 8일 - [Storage - File, Queue and EventHub](https://github.com/kcw0331/MS-AI-School/tree/main/Cloud-and-Security/storage)
-- 2022년 11월 9일
+- 2022년 11월 9일 - [Storage - Iot Hub](https://github.com/kcw0331/MS-AI-School/tree/main/Cloud-and-Security/storage)
 
 ## :dragon_face: MS AI School(CRUD-application)
 
 ### CRUD-application 공부 정리 목록
-- 2022년 11월 9일 - [C# and Azure SQL Database](https://github.com/kcw0331/MS-AI-School/tree/main/CRUD-application/C%23%20and%20Azure%20SQL%20Database)
 - 2022년 11월 10일 - [C#, Azure SQL Database and CRUD application]()
