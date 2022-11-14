@@ -11,7 +11,7 @@ namespace CRUD_Sample1
 {
     internal class Program  // 맴버 변수
     {
-        private const string ConnectionString = "Server=tcp:labuser2sqlserver.database.windows.net,1433;Initial Catalog=labuser2sql;Persist Security Info=False;User ID=kcw0331;Password=Sa8o5m7x1!@;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"; // 연결문자열을 사용한다.
+        private const string ConnectionString = ""; // 연결문자열을 사용한다.
         // const로 해 놓아서 아래 SqlConnection이 된다.
         static void Main(string[] args) // 지역 변수
         {
