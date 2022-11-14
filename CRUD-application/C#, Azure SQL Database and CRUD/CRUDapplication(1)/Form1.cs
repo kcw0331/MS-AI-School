@@ -16,7 +16,7 @@ namespace SQLServer01
 {
     public partial class frmMain : Form
     {
-        private const string CONNECTION_STRING = "Server=tcp:labuser2sqlserver.database.windows.net,1433;Initial Catalog=labuser2sql;Persist Security Info=False;User ID=kcw0331;Password=Sa8o5m7x1!@;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"; // const 상수는 대문자로 쓰는게 관례이다.
+        private const string CONNECTION_STRING = ""; // const 상수는 대문자로 쓰는게 관례이다.
         private SqlConnection SqlCon = null;
         private SqlCommand SqlCmd = null;
         private SqlDataAdapter SqlApt = new SqlDataAdapter(); // Sql 어댑트를 만들어 준다.
