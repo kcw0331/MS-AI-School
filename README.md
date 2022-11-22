@@ -39,3 +39,10 @@
 ### MS License(AI-900, DP-900) 공부 정리 목록
 - 2022년 11월 14일 - [MS License(2)(AI-900, DP-900)](https://github.com/kcw0331/MS-AI-School/tree/main/MS-License)
 - 2022년 11월 15일 - [MS License(3)(AI-900, DP-900)](https://github.com/kcw0331/MS-AI-School/tree/main/MS-License)
+- 2022년 11월 16일 - [MS License(4)(AI-900, DP-900)](https://github.com/kcw0331/MS-AI-School/tree/main/MS-License)
+- 2022년 11월 17일 - [MS License(5)(AI-900, DP-900)](https://github.com/kcw0331/MS-AI-School/tree/main/MS-License)
+
+## :tiger: MS AI School(Statistical Data Analysis)
+
+### Statistical Data Analysis 공부 정리 목록
+- 2022년 11월 22일 - [Statistical Data Analysis]()
