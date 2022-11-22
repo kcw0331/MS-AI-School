@@ -1,7 +1,7 @@
 # :star:  MS-AI-School :star:
-## MS AI School(Python)
+## :octocat: MS AI School(Python)
 
-### :octocat: Python을 공부 정리 목록
+### Python을 공부 정리 목록
 - 2022년 10월 13일 - [파이썬 기초 문법](https://github.com/kcw0331/MS-AI-School/tree/main/Python/Python_Basic_Grammar) 
 - 2022년 10월 14일 - [깃허브 및 파이썬 실습](https://github.com/kcw0331/MS-AI-School/tree/main/Python/Python_Basic_Practical_Exp)
 - 2022년 10월 17, 18일 - [Azure를 이용한 Cognitive Servies 및 Numpy](https://github.com/kcw0331/MS-AI-School/tree/main/Python/Cognitive_Servies(Azure))
@@ -47,13 +47,14 @@
 ### Statistical Data Analysis 공부 정리 목록
 - 2022년 11월 22일 - [Statistical Data Analysis](https://github.com/kcw0331/MS-AI-School/tree/main/Statistical-Data-Analysis)
 
-## MS AI School(타운홀)
+## :cat: MS AI School(타운홀)
 
-### :cat: 타운홀 미팅 목록
+### 타운홀 미팅 목록
 - 2022년 10월 25일 - [인피닉스 - AI에 대하여]
 - 2022년 11월 21일 - [리눅스 기초 및 핵심 명령 사용법 & 딥러닝 자연어 처리이론]
-## MS AI School(커리어 멘토링)
 
-### :dog: 커리어 멘토링 미팅 목록
+## :dog: MS AI School(커리어 멘토링)
+
+### 커리어 멘토링 미팅 목록
 - 2022년 10월 24일 - [커리어 멘토링1(류채윤 선생님)]
 - 2022년 11월 18일 - [커리어 멘토링2(류채윤 선생님)]
