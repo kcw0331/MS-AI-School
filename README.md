@@ -46,3 +46,14 @@
 
 ### Statistical Data Analysis 공부 정리 목록
 - 2022년 11월 22일 - [Statistical Data Analysis](https://github.com/kcw0331/MS-AI-School/tree/main/Statistical-Data-Analysis)
+
+## MS AI School(타운홀)
+
+### :cat: 타운홀 미팅 목록
+- 2022년 10월 25일 - [인피닉스 - AI에 대하여]
+- 2022년 11월 21일 - [리눅스 기초 및 핵심 명령 사용법 & 딥러닝 자연어 처리이론]
+## MS AI School(커리어 멘토링)
+
+### :dog: 커리어 멘토링 미팅 목록
+- 2022년 10월 24일 - [커리어 멘토링1(류채윤 선생님)]
+- 2022년 11월 18일 - [커리어 멘토링2(류채윤 선생님)]
