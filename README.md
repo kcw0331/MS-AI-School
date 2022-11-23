@@ -45,7 +45,8 @@
 ## :tiger: MS AI School(Statistical Data Analysis)
 
 ### Statistical Data Analysis 공부 정리 목록
-- 2022년 11월 22일 - [Statistical Data Analysis](https://github.com/kcw0331/MS-AI-School/tree/main/Statistical-Data-Analysis)
+- 2022년 11월 22일 - [Statistical Data Analysis-1일차](https://github.com/kcw0331/MS-AI-School/tree/main/Statistical-Data-Analysis)
+- 2022년 11월 23일 - [Statistical Data Analysis-2일차](https://github.com/kcw0331/MS-AI-School/tree/main/Statistical-Data-Analysis)
 
 ## :cat: MS AI School(타운홀)
 
