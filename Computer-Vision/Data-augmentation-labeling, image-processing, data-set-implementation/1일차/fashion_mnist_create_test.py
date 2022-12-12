@@ -28,7 +28,7 @@ df_dict = {
     'file_name': [],
     'label': []
 }
-idx = 0
+idx = 0 
 os.makedirs('./data/FashionMNIST/test_image.', exist_ok=True)
 while True:
     imgd = imgf.read(img_size*img_size)
