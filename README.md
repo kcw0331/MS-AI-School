@@ -59,3 +59,14 @@
 ### 커리어 멘토링 미팅 목록
 - 2022년 10월 24일 - [커리어 멘토링1(류채윤 선생님)]
 - 2022년 11월 18일 - [커리어 멘토링2(류채윤 선생님)]
+
+## :sheep: MS AI School(Computer Vision)
+
+### Computer Vision 공부 정리 목록
+
+##### 1. Computer Vision(Image-Handling-and-Dataset-Deployment)
+- 2022년 12월 2일 - [Computer Vision(Image-Handling-and-Dataset-Deployment)-1일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Image-Handling-and-Dataset-Deployment/1%EC%9D%BC%EC%B0%A8)
+- 2022년 12월 5일 - [Computer Vision(Image-Handling-and-Dataset-Deployment)-2일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Image-Handling-and-Dataset-Deployment/2%EC%9D%BC%EC%B0%A8)
+- 2022년 12월 6일 - [Computer Vision(Image-Handling-and-Dataset-Deployment)-3일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Image-Handling-and-Dataset-Deployment/3%EC%9D%BC%EC%B0%A8)
+- 2022년 12월 7일 - [Computer Vision(Image-Handling-and-Dataset-Deployment)-4일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Image-Handling-and-Dataset-Deployment/4%EC%9D%BC%EC%B0%A8)
+- 2022년 12월 8일 - [Computer Vision(Image-Handling-and-Dataset-Deployment)-5일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Image-Handling-and-Dataset-Deployment/5%EC%9D%BC%EC%B0%A8) 
