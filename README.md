@@ -64,7 +64,7 @@
 
 ### Computer Vision 공부 정리 목록
 
-##### 1. Computer Vision(Image-Handling-and-Dataset-Deployment)
+#### 1. Computer Vision(Image-Handling-and-Dataset-Deployment)
 - 2022년 12월 2일 - [Computer Vision(Image-Handling-and-Dataset-Deployment)-1일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Image-Handling-and-Dataset-Deployment/1%EC%9D%BC%EC%B0%A8)
 - 2022년 12월 5일 - [Computer Vision(Image-Handling-and-Dataset-Deployment)-2일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Image-Handling-and-Dataset-Deployment/2%EC%9D%BC%EC%B0%A8)
 - 2022년 12월 6일 - [Computer Vision(Image-Handling-and-Dataset-Deployment)-3일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Image-Handling-and-Dataset-Deployment/3%EC%9D%BC%EC%B0%A8)
