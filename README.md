@@ -45,8 +45,14 @@
 ## :tiger: MS AI School(Statistical Data Analysis)
 
 ### Statistical Data Analysis 공부 정리 목록
-- 2022년 11월 22일 - [Statistical Data Analysis-1일차](https://github.com/kcw0331/MS-AI-School/tree/main/Statistical-Data-Analysis)
-- 2022년 11월 23일 - [Statistical Data Analysis-2일차](https://github.com/kcw0331/MS-AI-School/tree/main/Statistical-Data-Analysis)
+- 2022년 11월 22일 - [Statistical Data Analysis-1일차](https://github.com/kcw0331/MS-AI-School/tree/main/Statistical-Data-Analysis/2022%EB%85%8411%EC%9B%9422%EC%9D%BC-%ED%86%B5%EA%B3%84%EA%B8%B0%EB%B0%98%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-1%EC%9D%BC%EC%B0%A8)
+- 2022년 11월 23일 - [Statistical Data Analysis-2일차](https://github.com/kcw0331/MS-AI-School/tree/main/Statistical-Data-Analysis/2022%EB%85%8411%EC%9B%9423%EC%9D%BC-%ED%86%B5%EA%B3%84%EA%B8%B0%EB%B0%98%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-2%EC%9D%BC%EC%B0%A8)
+- 2022년 11월 24일 - [Statistical Data Analysis-3일차](https://github.com/kcw0331/MS-AI-School/tree/main/Statistical-Data-Analysis/2022%EB%85%8411%EC%9B%9424%EC%9D%BC-%ED%86%B5%EA%B3%84%EA%B8%B0%EB%B0%98%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-3%EC%9D%BC%EC%B0%A8)
+- 2022년 11월 25일 - [Statistical Data Analysis-4일차](https://github.com/kcw0331/MS-AI-School/tree/main/Statistical-Data-Analysis/2022%EB%85%8411%EC%9B%9425%EC%9D%BC-%ED%86%B5%EA%B3%84%EA%B8%B0%EB%B0%98%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-4%EC%9D%BC%EC%B0%A8)
+- 2022년 11월 28일 - [Statistical Data Analysis-5일차](https://github.com/kcw0331/MS-AI-School/tree/main/Statistical-Data-Analysis/2022%EB%85%8411%EC%9B%9428%EC%9D%BC-%ED%86%B5%EA%B3%84%EA%B8%B0%EB%B0%98%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-5%EC%9D%BC%EC%B0%A8)
+- 2022년 11월 29일 - [Statistical Data Analysis-6일차](https://github.com/kcw0331/MS-AI-School/tree/main/Statistical-Data-Analysis/2022%EB%85%8411%EC%9B%9429%EC%9D%BC-%ED%86%B5%EA%B3%84%EA%B8%B0%EB%B0%98%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-6%EC%9D%BC%EC%B0%A8)
+- 2022년 11월 30일 - [Statistical Data Analysis-7일차](https://github.com/kcw0331/MS-AI-School/tree/main/Statistical-Data-Analysis/2022%EB%85%8411%EC%9B%9430%EC%9D%BC-%ED%86%B5%EA%B3%84%EA%B8%B0%EB%B0%98%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-7%EC%9D%BC%EC%B0%A8)
+- 2022년 12월 01일 - [Statistical Data Analysis-8일차](https://github.com/kcw0331/MS-AI-School/tree/main/Statistical-Data-Analysis/2022%EB%85%8412%EC%9B%941%EC%9D%BC-%ED%86%B5%EA%B3%84%EA%B8%B0%EB%B0%98%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-8%EC%9D%BC%EC%B0%A8)
 
 ## :cat: MS AI School(타운홀)
 
