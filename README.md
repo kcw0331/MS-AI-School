@@ -70,3 +70,7 @@
 - 2022년 12월 6일 - [Computer Vision(Image-Handling-and-Dataset-Deployment)-3일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Image-Handling-and-Dataset-Deployment/3%EC%9D%BC%EC%B0%A8)
 - 2022년 12월 7일 - [Computer Vision(Image-Handling-and-Dataset-Deployment)-4일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Image-Handling-and-Dataset-Deployment/4%EC%9D%BC%EC%B0%A8)
 - 2022년 12월 8일 - [Computer Vision(Image-Handling-and-Dataset-Deployment)-5일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Image-Handling-and-Dataset-Deployment/5%EC%9D%BC%EC%B0%A8) 
+
+#### 2. Computer Vision(Data-augmentation-labeling, image-processing, data-set-implementation)
+- 2022년 12월 9일 - [Computer Vision(Data-augmentation-labeling, image-processing, data-set-implementation)-1일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Data-augmentation-labeling%2C%20image-processing%2C%20data-set-implementation/1%EC%9D%BC%EC%B0%A8)
+- 2022년 12월 10일 - [Computer Vision(Data-augmentation-labeling, image-processing, data-set-implementation)-2일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Data-augmentation-labeling%2C%20image-processing%2C%20data-set-implementation/2%EC%9D%BC%EC%B0%A8)
