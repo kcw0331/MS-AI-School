@@ -59,12 +59,14 @@
 ### 타운홀 미팅 목록
 - 2022년 10월 25일 - [인피닉스 - AI에 대하여]
 - 2022년 11월 21일 - [리눅스 기초 및 핵심 명령 사용법 & 딥러닝 자연어 처리이론]
+- 2022년 12월 21일 - [인피닉스 - 파이썬 GUI프로그래밍 및 교육 Q&A(백상엽 선생님)]
 
 ## :dog: MS AI School(커리어 멘토링)
 
 ### 커리어 멘토링 미팅 목록
 - 2022년 10월 24일 - [커리어 멘토링1(류채윤 선생님)]
 - 2022년 11월 18일 - [커리어 멘토링2(류채윤 선생님)]
+- 2022년 12월 20일 - [커리어 멘토링3(류채윤 선생님)]
 
 ## :sheep: MS AI School(Computer Vision)
 
@@ -79,4 +81,16 @@
 
 #### 2. Computer Vision(Data-augmentation-labeling, image-processing, data-set-implementation)
 - 2022년 12월 9일 - [Computer Vision(Data-augmentation-labeling, image-processing, data-set-implementation)-1일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Data-augmentation-labeling%2C%20image-processing%2C%20data-set-implementation/1%EC%9D%BC%EC%B0%A8)
-- 2022년 12월 10일 - [Computer Vision(Data-augmentation-labeling, image-processing, data-set-implementation)-2일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Data-augmentation-labeling%2C%20image-processing%2C%20data-set-implementation/2%EC%9D%BC%EC%B0%A8)
+- 2022년 12월 12일 - [Computer Vision(Data-augmentation-labeling, image-processing, data-set-implementation)-2일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Data-augmentation-labeling%2C%20image-processing%2C%20data-set-implementation/2%EC%9D%BC%EC%B0%A8)
+- 2022년 12월 13일 - [Computer Vision(Data-augmentation-labeling, image-processing, data-set-implementation)-3일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Data-augmentation-labeling%2C%20image-processing%2C%20data-set-implementation/3%EC%9D%BC%EC%B0%A8)
+- 2022년 12월 14일 - [Computer Vision(Data-augmentation-labeling, image-processing, data-set-implementation)-4일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Data-augmentation-labeling%2C%20image-processing%2C%20data-set-implementation/4%EC%9D%BC%EC%B0%A8)
+- 2022년 12월 15일 - [Computer Vision(Data-augmentation-labeling, image-processing, data-set-implementation)-5일차]()
+- 2022년 12월 16일 - [Computer Vision(Data-augmentation-labeling, image-processing, data-set-implementation)-6일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Data-augmentation-labeling%2C%20image-processing%2C%20data-set-implementation/6%EC%9D%BC%EC%B0%A8)
+
+#### 3. Computer Vision(Data-Processing-Project)
+- 2022년 12월 19일 - [Computer Vision(Data-Processing-Project)-1일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Data-Processing-Project/1%EC%9D%BC%EC%B0%A8)
+- 2022년 12월 22일 - [Computer Vision(Data-Processing-Project)-2일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Data-Processing-Project/2%EC%9D%BC%EC%B0%A8/1216%EC%9D%BC%EA%B3%BC%EC%A0%9C%EC%97%90%EB%8C%80%ED%95%B4%EC%84%A4%EB%AA%85)
+
+#### 4. Computer Vision(Learning-Artificial-Neural-Network-Theory)
+- 2022년 12월 23일 - [Computer Vision(Data-Processing-Project)-1일차]()
+- 2022년 12월 26일 - [Computer Vision(Data-Processing-Project)-2일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Learning-Artificial-Neural-Network-Theory/2%EC%9D%BC%EC%B0%A8)
