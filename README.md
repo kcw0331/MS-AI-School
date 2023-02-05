@@ -92,5 +92,11 @@
 - 2022년 12월 22일 - [Computer Vision(Data-Processing-Project)-2일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Data-Processing-Project/2%EC%9D%BC%EC%B0%A8/1216%EC%9D%BC%EA%B3%BC%EC%A0%9C%EC%97%90%EB%8C%80%ED%95%B4%EC%84%A4%EB%AA%85)
 
 #### 4. Computer Vision(Learning-Artificial-Neural-Network-Theory)
-- 2022년 12월 23일 - [Computer Vision(Data-Processing-Project)-1일차]()
-- 2022년 12월 26일 - [Computer Vision(Data-Processing-Project)-2일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Learning-Artificial-Neural-Network-Theory/2%EC%9D%BC%EC%B0%A8)
+- 2022년 12월 23일 - [Computer Vision(Learning-Artificial-Neural-Network-Theory)-1일차]()
+- 2022년 12월 26일 - [Computer Vision(Learning-Artificial-Neural-Network-Theory)-2일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Learning-Artificial-Neural-Network-Theory/2%EC%9D%BC%EC%B0%A8)
+- 2022년 12월 27일 - [Computer Vision(Learning-Artificial-Neural-Network-Theory)-3일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/Learning-Artificial-Neural-Network-Theory/3%EC%9D%BC%EC%B0%A8)
+
+#### 5. Computer Vision(CNN-Theory-Learning)
+- 2022년 12월 28일 - [Computer Vision(CNN-Theory-Learning)-1일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/CNN-Theory-Learning/1%EC%9D%BC%EC%B0%A8)
+- 2022년 12월 29일 - [Computer Vision(CNN-Theory-Learning)-2일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/CNN-Theory-Learning/2%EC%9D%BC%EC%B0%A8)
+- 2022년 12월 30일 - [Computer Vision(CNN-Theory-Learning)-3일차](https://github.com/kcw0331/MS-AI-School/tree/main/Computer-Vision/CNN-Theory-Learning/3%EC%9D%BC%EC%B0%A8)
