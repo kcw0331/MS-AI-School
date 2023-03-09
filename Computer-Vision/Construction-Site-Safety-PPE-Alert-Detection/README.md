@@ -25,7 +25,9 @@
 ---
 
 - There are 7 classes to detect from the dataset:
+    
     <center><img src="./result/reference1.png"  width="300" height="200"/></center>
+    
     - 'Safety_Belt', 'No_Safety_Belt', 'Safety_Shoes', 'No_Safety_shoes', 'Safety_helmet', 'No_Safety_helmet', 'Person'
 
 ## Results
