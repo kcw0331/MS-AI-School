@@ -74,6 +74,7 @@ GPU : Tesla V100, Memory : 112GB, CPU : Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GH
 |Model|Hyperparameter|Batch_size|Epochs|optimizer|mAP0.5|mAP0.5-0.95|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |Yolov5n|Hyp.scratch-low|16|100|SGD|0.83782|0.49619|
+|Yolov5n|Hyp.scratch-low|16|100|AdamW|0.81|0.469|
 |Yolov5s|Hyp.scratch-high|84|100|SGD|0.86399|0.53363|
 |Yolov5l|Hyp.scratch-high|16|30|SGD|0.8715|0.55632|
 |Yolov5m|Hyp.scratch-low|32|100|SGD|0.88586|0.5667|
