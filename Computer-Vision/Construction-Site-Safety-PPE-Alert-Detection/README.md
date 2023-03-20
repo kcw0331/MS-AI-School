@@ -106,6 +106,8 @@ GPU : Tesla V100, Memory : 112GB, CPU : Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GH
     - Email notification service when not wearing it on the screen for a certain period of time or more
 <center><img src="./result/result_GUI.png"  width="700" height="400"/></center>
 
+- reference: https://www.youtube.com/watch?v=JZoFy66h8aY
+
 - The Yolov5 pt file and the bounding box tracked people with Deepsort are implemented by calculating IOU, wearing a safety helmet, seat belt, and safety shoes using the GUI to indicate whether it is safe or not, and sending an e-mail to the manager for a certain period of time. 
 
 <center><img src="./result/result_email_memo.png"  width="400" height="200"/></center>
